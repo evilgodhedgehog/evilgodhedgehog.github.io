@@ -1749,7 +1749,7 @@ button:focus {
 }
 .gallery-grid__image-wrap {
   border-radius: 14px;
-  height: 11rem;
+  height: 9rem;
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -1757,12 +1757,12 @@ button:focus {
 }
 @media only screen and (max-width: 991px) {
   .gallery-grid__image-wrap {
-    height: 13rem;
+    height: 12rem;
   }
 }
 @media only screen and (max-width: 768px) {
   .gallery-grid__image-wrap {
-    height: 18rem;
+    height: 16rem;
   }
 }
 .gallery-grid__image {
